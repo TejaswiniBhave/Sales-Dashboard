@@ -54,3 +54,19 @@ It demonstrates strong capabilities in:
 - Analyze discount impact on revenue  
 - Track employee and regional performance  
 - Make data-driven business decisions  
+
+---
+
+## 📸 Dashboard Preview  
+
+### 🔹 Overview Dashboard  
+![Overview](images/Overview_Dashboard.png)
+
+### 🔹 Product Dashboard  
+![Product](images/Product_Dashboard.png)
+
+### 🔹 Customer Dashboard  
+![Customer](images/Customer_Dashboard.png)
+
+### 🔹 Time Series Dashboard  
+![Time Series](images/Timeseries_Dashboard.png)
